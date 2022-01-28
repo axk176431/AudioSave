@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AudioSave</string>
+    <string name="start_button">start</string>
+    <string name="stop_button">stop</string>
+    <string name="permissions_not_granted">Must grant all permissions to use app</string>
+</resources>
